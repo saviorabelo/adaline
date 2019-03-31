@@ -1,2 +1,2 @@
 # ADALINE
-Implementation of an artificial neural network, Adaptive Linear Element (ADALINE).
+Implementação de uma Rede Neural Artificial (RNA), Adaptive Linear Element (ADALINE).
