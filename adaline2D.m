@@ -1,3 +1,5 @@
+%% Configuração
+
 clc;
 close all;
 clearvars;
